@@ -1,3 +1,4 @@
+#!/bin/bash
 # mypy is special in that they distribute a C extension only for CPython,
 # and while it looks like you are supposed to be able to do
 # MYPY_USE_MYPYC pip install --no-binary mypy
